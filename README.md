@@ -1,16 +1,14 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Mubashar Nouman👋<a href="#"></h1>
+    <h1> Hi there, I'm Prasoon Kumar👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/mubashar-nouman"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
+<a href="https://github.com/prasoon2510"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
 	
 
 	
-## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
 
-### I'm a ReactJs Developer, Teacher, and UI/UX Designer!
+### I'm a undergraduate final year student pursuing Bachelor of Technology with Computer Science 
 - 🔭 I’m currently working as Front-end Developer at AlfAin Technologies(PVT).
 - 🌱 I’m currently expanding my knowledge in Front-end Development.
 - 👯 I’m looking to connect with other content creators and developers.
@@ -59,10 +57,10 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/mubashar-nouman/"><img src="https://img.shields.io/badge/-Mubashar%20Nouman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mubashirrnouman@gmail.com"><img src="https://img.shields.io/badge/-mubashirrnouman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mubashar_nouman/"><img src="https://img.shields.io/badge/-@mubashar_nouman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-/mubashirnouman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/prasoon25/"><img src="https://img.shields.io/badge/-Mubashar%20Nouman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:prasoon2510@gmail.com"><img src="https://img.shields.io/badge/-mubashirrnouman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/prasoon5352/"><img src="https://img.shields.io/badge/-@mubashar_nouman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/-/mubashirnouman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
